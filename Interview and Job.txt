@@ -1,0 +1,13 @@
+What is the Featurs of Python ?
+What is mean by List ?
+What is mean by Django ?
+How to print Even Number ?
+What is mean by Function ?
+what is mean by Class ?
+what is the OOPs ?
+how to add two list eg - a={5,6,7,8,9,10} b={1,2,3}
+what is mean by Allies in Sql ?
+what are the advatages and Diss advantages of Python ?
+what is the Diffrence in Mutable and immutable ?
+what is the Diffrence Beetween in For loop and While Loop ?
+
